@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "GWASbyCluster"]
 	path = GWASbyCluster
 	url = https://github.com/cran/GWASbyCluster
-	shallow = true
-	registered = true
 [submodule "lboxcox"]
 	path = lboxcox
 	url = https://github.com/cran/lboxcox
-	shallow = true
-	registered = true
 [submodule "MTPS"]
 	path = MTPS
 	url = https://github.com/cran/MTPS
-	shallow = true
-	registered = true
