@@ -5,9 +5,9 @@
 [submodule "GWASbyCluster"]
 	path = GWASbyCluster
 	url = https://github.com/cran/GWASbyCluster
-[submodule "lboxcox"]
-	path = lboxcox
-	url = https://github.com/cran/lboxcox
 [submodule "MTPS"]
 	path = MTPS
 	url = https://github.com/cran/MTPS
+[submodule "lboxcox"]
+	path = lboxcox
+	url = https://github.com/cran/lboxcox
