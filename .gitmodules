@@ -8,6 +8,3 @@
 [submodule "MTPS"]
 	path = MTPS
 	url = https://github.com/cran/MTPS
-[submodule "lboxcox"]
-	path = lboxcox
-	url = https://github.com/cran/lboxcox
